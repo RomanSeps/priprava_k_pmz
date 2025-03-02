@@ -2,5 +2,5 @@
 
 ## Autor - Roman Šeps
 
-[Dilatace a eroze]()
-[Interpretace-ezoterickeho jazyka]()
+- [Dilatace a eroze](https://github.com/RomanSeps/priprava_k_pmz/tree/main/Dilatace_a_eroze)
+- [Interpretace-ezoterickeho jazyka]()
