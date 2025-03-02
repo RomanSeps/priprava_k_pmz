@@ -1,4 +1,5 @@
 # Příprava_k_pmz
+[Zpět na hlavní stránku](https://github.com/RomanSeps/priprava_k_pmz/tree/main)
 Toto je dokumntace pro úlohy na téma **dilatace** a **eroze.**
 Obě úlohy jsou řešeny v jazyce PHP.
 
