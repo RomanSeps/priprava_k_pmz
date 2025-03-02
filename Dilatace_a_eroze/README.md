@@ -1,7 +1,7 @@
 # Příprava_k_pmz
-[Zpět na hlavní stránku](https://github.com/RomanSeps/priprava_k_pmz/tree/main)
-Toto je dokumntace pro úlohy na téma **dilatace** a **eroze.**
-Obě úlohy jsou řešeny v jazyce PHP.
+- [Zpět na hlavní stránku](https://github.com/RomanSeps/priprava_k_pmz/tree/main)
+- Toto je dokumntace pro úlohy na téma **dilatace** a **eroze.**
+- Obě úlohy jsou řešeny v jazyce PHP.
 
 ## Úloha 1:
 Ve vybraném jazyce proveď převod hodnot dvourozměrného pole image2d do markdown tabulky.
