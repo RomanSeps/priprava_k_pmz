@@ -1,6 +1,7 @@
 # Interpret ezoterického programovacího jazyka
-Úkolem je implementovat jednoduchý interpret ezoterického programovacího jazyka ezop.
-Úloha je znovu zpracována v jazyce PHP.
+- [Zpět na hlavní stránku](https://github.com/RomanSeps/priprava_k_pmz/tree/main)
+- Úkolem je implementovat jednoduchý interpret ezoterického programovacího jazyka ezop.
+- Úloha je znovu zpracována v jazyce PHP.
 
 ## Implementace
 - Program bude číst vstupní instrukce v textovém formátu.
